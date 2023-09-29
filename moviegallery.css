@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Coiny&family=Croissant+One&family=EB+Garamond&family=Fanwood+Text&family=Ibarra+Real+Nova&family=Righteous&family=Simonetta&family=Spectral:ital,wght@1,200;1,300&family=Vollkorn&display=swap');
+body{
+    background-image: url("./images/back2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+#d1{
+    width: 100%;
+    height: 900px;
+    position: relative;
+}
+.c{
+    height: 300px;
+    width: 200px;
+    /* border: 2px white solid; */
+    position: absolute;
+    background-color: rgba(186, 180, 180, 0.84);
+
+
+    
+    
+}
+.c2{
+    left: 193px;
+    top: 42px;
+}
+.c3{
+    left: 501px;
+    top: 42px;
+}
+.c4{
+    left: 810px;
+    top: 42px;
+}
+.c5{
+    left: 193px;
+    top: 400px;
+}
+.c6{
+    left: 501px;
+    top: 400px;
+}
+.c7{
+    left: 810px;
+    top: 400px;
+}
+img{
+    height: 150px;
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+h4{
+    text-align: center;
+    margin-top: 10px;
+    margin-top: 1px;
+    font-family: 'Fanwood Text', serif;
+}
+.c11{
+    font-size: x-small;
+    padding: 7px;
+    margin-top: -20px;
+    font-family: 'Vollkorn', serif;
+}
+.c9{
+    height: 17px;
+    width: 100px;
+    background-color: rgba(254, 254, 254, 0.797);
+    margin-left: 44px;
+    margin-top: -10px;
+    
+}
+.c10{
+    text-align: center;
+    font-family:'Ibarra Real Nova', serif;
+    background-color: rgba(192, 187, 187, 0.84);
+
+}
+
+h1{
+    color: rgb(178, 178, 178);
+    margin-top: 135px;
+    text-align: center;
+    font-family: 'Croissant One', cursive;
+
+    
+}
+button{
+    background-color: rgba(195, 182, 182, 0.119);
+    color: rgb(0, 0, 0);
+    font-size: x-small;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 60px;
+    
+
+}
+.c:hover{
+    background-color: rgb(210, 202, 202);
+    box-shadow: 0 4px 8px 0 rgba(8, 6, 6, 0.808), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+
+}
+button:hover{
+    background-color: rgb(165, 165, 193);
+}
